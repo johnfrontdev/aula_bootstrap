@@ -1,0 +1,11 @@
+.brand {
+    width: 60px;
+    height: 60px;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 19px;
+    margin-left: 5px;
+    background-color: rgb(50, 141, 194);
+    color: aliceblue;
+    border-radius: 50%;
+}

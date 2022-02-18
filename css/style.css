@@ -5,9 +5,27 @@
     text-align: center;
     padding-top: 14px;
     margin-left: 5px;
-    background-color: rgb(72, 42, 170);
+    background-color: rgb(28, 19, 58);
     color: aliceblue;
     border-radius: 20px 0 20px 0;
     box-shadow: black 1px 1px 7px 1px;
     font-weight: 300;
+}
+
+.navbar {
+    background-color: rgb(68, 73, 80) !important;
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+.quem-somos {
+    background-color: aquamarine;
+    font-size: 30px;
+}
+
+.padding-container {
+    padding-top: 100px;
+    padding-bottom: 100px;
 }

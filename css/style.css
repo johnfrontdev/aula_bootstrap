@@ -5,19 +5,19 @@
     text-align: center;
     padding-top: 14px;
     margin-left: 5px;
-    background-color: rgb(28, 19, 58);
-    color: aliceblue;
+    background-color: rgb(97, 84, 143);
+    color: rgb(255, 255, 255);
     border-radius: 20px 0 20px 0;
     box-shadow: black 1px 1px 7px 1px;
     font-weight: 300;
 }
 
 .navbar {
-    background-color: rgb(68, 73, 80) !important;
+    background-color: rgb(179, 194, 216) !important;
 }
 
 .nav-link {
-    color: #fff !important;
+    color: rgb(54, 54, 54) !important;
 }
 
 .quem-somos {
@@ -29,3 +29,50 @@
     padding-top: 100px;
     padding-bottom: 100px;
 }
+
+.jumbotron {
+    color: white;
+    background-color: rgb(37, 21, 51);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+  }
+
+  .intro {
+      padding-top: 130px;
+  }
+
+  .parceiros {
+      height: 90vh;
+      background-color: rgb(255, 255, 255);
+  }
+
+
+
+
+.row1 {
+    background-color: rgb(255, 51, 0);
+    width: 250px;
+    height: 200px;
+    margin: 10px;
+}
+.row2 {
+    background-color: rgb(9, 255, 0);
+    width: 250px;
+    height: 200px;
+    margin: 10px;
+}
+.row3 {
+    background-color: rgb(255, 196, 0);
+    width: 250px;
+    height: 200px;
+    margin: 10px;
+}
+.row4 {
+    background-color: rgb(255, 0, 149);
+    width: 250px;
+    height: 200px;
+    margin: 10px;
+}
+
